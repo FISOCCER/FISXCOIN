@@ -1,0 +1,10 @@
+{
+    "name": "$FISX",
+    "symbol": "$FISX",
+    "description": "Token institucional de la Federaci\u00f3n Internacional de Soccer Americano \u2013 FISOCCER.",
+    "decimals": 9,
+    "total_supply": "210000000000000000",
+    "image": "logo-fisx.jpg",
+    "protocol": "cashtokens",
+    "version": "1.0.0"
+}
